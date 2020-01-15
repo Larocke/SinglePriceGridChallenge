@@ -1,0 +1,85 @@
+body{
+  line-height: 1.5;
+  font-family: 'Karla', sans-serif;
+  font-size: 1rem;
+}
+
+.intro{
+  margin: auto;
+  padding: 5% 15% 2%;
+  color: hsl(218, 22%, 67%);
+}
+
+.info{
+  background-color: hsl(179, 62%, 43%);
+  margin: 0 10%;
+  color: hsl(204, 43%, 93%);
+}
+
+.hover-column:hover{
+  background-color: hsl(179, 30%, 43%);
+}
+
+.why-text{
+  padding: 7% 10% 10%;
+}
+
+.price-text{
+  padding: 0 10% 0;
+}
+
+.myBTN{
+  background-color: hsl(71, 73%, 54%);
+  color: hsl(204, 43%, 93%);
+  display: block;
+  width: 350px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.fee{
+  font-size: 2rem;
+}
+
+h1{
+  font-family: sans-serif;
+  color: hsl(179, 62%, 43%);
+}
+
+h2{
+  padding: 5% 10%;
+}
+
+h3{
+  color: hsl(71, 73%, 54%);
+}
+
+.attribution{
+  text-align: center;
+}
+
+/*
+## Colors
+
+### Primary
+
+- Cyan: hsl(179, 62%, 43%)
+- Bright Yellow: hsl(71, 73%, 54%)
+
+### Neutral
+
+- Light Gray: hsl(204, 43%, 93%)
+- Grayish Blue: hsl(218, 22%, 67%)
+
+## Typography
+
+### Body Copy
+
+- Font size: 16px
+
+### Font
+
+- Family: [Karla](https://fonts.google.com/specimen/Karla)
+- Weights: 400, 700
+
+*/
